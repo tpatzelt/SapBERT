@@ -1,0 +1,8 @@
+tqdm
+numpy
+pytorch_metric_learning
+transformers
+# torch
+pandas
+scikit_learn
+jupyter
